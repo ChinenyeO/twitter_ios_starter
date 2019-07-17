@@ -16,7 +16,7 @@ Time spent: **4** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif'  />
+<img src='http://g.recordit.co/71kjNdRBs8.gif'  />
 
 # Twitter - Part II
 
